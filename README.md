@@ -83,6 +83,7 @@ No disruption to target machines — no repetitive manual operations.
 ## 📄 License
 
 This repository is for documentation and binary distribution only.  
+Forking is not permitted for derivative work or redistribution.  
 ONE Remote Installer is a **commercial product** and not open source.
 
 ---
